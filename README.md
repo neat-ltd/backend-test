@@ -17,7 +17,7 @@ Consumer receives this data and prints to a log (for added bonus, can have a sma
 Enable an endpoint which starts and kills a consumer. After a kill, print all processed historical transactions and latest account balance for each account.
 
 
-Ruby preferably
-Added points for adding a queue in-between producers and a consumer.
+Ruby preferably.
+Bonus points for adding a queue in-between producers and a consumer.
 
 API Documentation as a reference: https://neat-api-docs.herokuapp.com
